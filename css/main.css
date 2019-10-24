@@ -138,7 +138,7 @@ table {
   position: fixed;
   text-align: right;
   top: 0;
-  width: 15rem;
+  width: 5rem;
   z-index: 10000;
 }
 #sidebar > .inner {
@@ -339,7 +339,7 @@ p {
   justify-content: center;
   flex-wrap: wrap;
   background-color: black;
-  color: green;
+  color: white;
   border-radius: 2rem;
 }
 .whatwedo .wwd p {
