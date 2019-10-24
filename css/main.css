@@ -311,16 +311,17 @@ body {
 }
 .container .about h1 {
   font-size: 7rem;
-  color: #333333;
+  color: #3e0fe9;
+  text-shadow: 5px 5px 15px black;
   font-weight: bolder;
-  text-shadow: 2px 2px white;
 }
 .container .about p {
   margin-top: 1.2rem;
   width: 90%;
-  font-size: 2rem;
-  color: #333333;
-  font-weight: bold;
+  font-size: 2.5rem;
+  color: #43afee;
+  text-shadow: 5px 5px 15px white;
+  font-weight: bolder;
 }
 html {
   font-size: 62.5%;
